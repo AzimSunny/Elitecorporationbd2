@@ -1,9 +1,38 @@
-function _0x48aa(_0x220543,_0x58714a){var _0x2fa5de=_0x2fa5();return _0x48aa=function(_0x48aaf8,_0x35f884){_0x48aaf8=_0x48aaf8-0x90;var _0x451c37=_0x2fa5de[_0x48aaf8];return _0x451c37;},_0x48aa(_0x220543,_0x58714a);}var _0x2ee540=_0x48aa;(function(_0x32555b,_0x33190d){var _0x495933=_0x48aa,_0x56cc4f=_0x32555b();while(!![]){try{var _0x3a7658=-parseInt(_0x495933(0x92))/0x1+parseInt(_0x495933(0xb5))/0x2*(parseInt(_0x495933(0xd3))/0x3)+-parseInt(_0x495933(0x98))/0x4+parseInt(_0x495933(0xa4))/0x5+-parseInt(_0x495933(0xb9))/0x6+-parseInt(_0x495933(0xb8))/0x7+-parseInt(_0x495933(0xa1))/0x8*(-parseInt(_0x495933(0xad))/0x9);if(_0x3a7658===_0x33190d)break;else _0x56cc4f['push'](_0x56cc4f['shift']());}catch(_0x3fd653){_0x56cc4f['push'](_0x56cc4f['shift']());}}}(_0x2fa5,0xb1033),$(_0x2ee540(0x9b))[_0x2ee540(0x93)]({'arrows':![],'autoplay':!![]}));var navLinks=document[_0x2ee540(0xba)]('navLinks');function _0x2fa5(){var _0x72d445=['innerHTML','left','KAL399FR','YAN992SO','LEC000QW','UAE323CB','BOD942SX','REB142AA','REQ343HN','TAS67A2Q','value','PWE555CP','295B9218','EYS874XX','YAS442TP','toggle','JEM667PP','0px\x201px\x2020px\x20rgba(0,0,0,0.4)','JEQ340PQ','31SB9224','classList','GHO225A8','preventDefault','3BrvHfL','JIB190YE','keydown','PFL333YS','scroll','boxShadow','UYE333PN','MAQ125QS','addEventListener','638296VElaWH','slick','BAN536CN','AQF202S8','33SB9228','CON939GE','4583420KbDZij','32SB9226','TAL112TA','.banner_slider','0px\x201px\x2020px\x20rgba(0,0,0,0.0)','BBB555BS','Number\x20field\x20cannot\x20be\x20empty','34SB9230','30SB9222','72SNmFiw','-90%','SIC664SC','5636445MAsETT','myForm','style','demo','keyCode','আপনার\x20পণ্য\x20টি\x20অরিজিনাল\x20না<img\x20src=\x27./img/notverify.png\x27>','.fa-chevron-up','CNN115KK','RGA202A2','1681794WVvTpz','PAS043PQ','num','BBO567AE','SUL445QS','querySelector','LIO900SE','PAM339PS','2617702wVtQRN','BBC290BF','JAQ869SE','9786980HAYnRU','1263600rBxDRf','getElementById','KIN395UN'];_0x2fa5=function(){return _0x72d445;};return _0x2fa5();}function showMenu(){var _0xc41d78=_0x2ee540;navLinks[_0xc41d78(0xa6)]['left']='0%',navLinks[_0xc41d78(0xa6)][_0xc41d78(0xd8)]=_0xc41d78(0xcd);}function hideMenu(){var _0x5a2996=_0x2ee540;navLinks[_0x5a2996(0xa6)][_0x5a2996(0xbd)]=_0x5a2996(0xa2),navLinks[_0x5a2996(0xa6)][_0x5a2996(0xd8)]=_0x5a2996(0x9c);}let numb=document['forms'][_0x2ee540(0xa5)][_0x2ee540(0xaf)];function valid(){var _0x350ae0=_0x2ee540;return numb['value']==''?(alert(_0x350ae0(0x9e)),![]):numb[_0x350ae0(0xc6)]=='29SB9218'||numb[_0x350ae0(0xc6)]==_0x350ae0(0xa0)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xcf)||numb['value']==_0x350ae0(0x99)||numb[_0x350ae0(0xc6)]==_0x350ae0(0x96)||numb['value']==_0x350ae0(0x9f)||numb[_0x350ae0(0xc6)]=='123SIG65'||numb[_0x350ae0(0xc6)]==_0x350ae0(0xd1)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xc5)||numb[_0x350ae0(0xc6)]==_0x350ae0(0x95)||numb['value']==_0x350ae0(0xc3)||numb[_0x350ae0(0xc6)]=='JUG333A3'||numb['value']==_0x350ae0(0xac)||numb[_0x350ae0(0xc6)]=='DAD101Q0'||numb[_0x350ae0(0xc6)]==_0x350ae0(0xb1)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xcc)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xb4)||numb[_0x350ae0(0xc6)]=='GAL545ZE'||numb[_0x350ae0(0xc6)]=='DAS888B2'||numb[_0x350ae0(0xc6)]==_0x350ae0(0xb0)||numb[_0x350ae0(0xc6)]==_0x350ae0(0x97)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xc4)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xab)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xb7)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xbf)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xca)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xb3)||numb['value']==_0x350ae0(0xa3)||numb[_0x350ae0(0xc6)]==_0x350ae0(0x9a)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xd4)||numb[_0x350ae0(0xc6)]=='EES389PE'||numb[_0x350ae0(0xc6)]==_0x350ae0(0xc1)||numb[_0x350ae0(0xc6)]==_0x350ae0(0x94)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xb6)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xbb)||numb[_0x350ae0(0xc6)]==_0x350ae0(0x9d)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xc7)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xae)||numb[_0x350ae0(0xc6)]=='RAN123MX'||numb[_0x350ae0(0xc6)]==_0x350ae0(0xc2)||numb[_0x350ae0(0xc6)]==_0x350ae0(0x90)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xd9)||numb[_0x350ae0(0xc6)]=='DEF084RT'||numb[_0x350ae0(0xc6)]=='POP303HG'||numb[_0x350ae0(0xc6)]==_0x350ae0(0xc0)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xd6)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xc9)||numb[_0x350ae0(0xc6)]=='UAX987ZZ'||numb['value']==_0x350ae0(0xce)||numb[_0x350ae0(0xc6)]==_0x350ae0(0xbe)||numb[_0x350ae0(0xc6)]=='MWQ899VT'||numb[_0x350ae0(0xc6)]==_0x350ae0(0xc8)||numb[_0x350ae0(0xc6)]=='335B9228'||numb[_0x350ae0(0xc6)]=='AQF20258'||numb[_0x350ae0(0xc6)]=='AQF20258'?(document[_0x350ae0(0xba)](_0x350ae0(0xa7))[_0x350ae0(0xbc)]='আপনার\x20পণ্য\x20টি\x20অরিজিনাল<img\x20src=\x27./img/verify.png\x27>',![]):(document[_0x350ae0(0xba)](_0x350ae0(0xa7))[_0x350ae0(0xbc)]=_0x350ae0(0xa9),![]);return!![];}window['addEventListener'](_0x2ee540(0xd7),function(){var _0x4ae090=_0x2ee540,_0x1278d2=document[_0x4ae090(0xb2)](_0x4ae090(0xaa));_0x1278d2[_0x4ae090(0xd0)][_0x4ae090(0xcb)]('arrowUp',window['scrollY']>0x1f4);}),document[_0x2ee540(0x91)]('contextmenu',function(_0x398288){var _0x11853d=_0x2ee540;_0x398288[_0x11853d(0xd2)]();},![]),document[_0x2ee540(0x91)](_0x2ee540(0xd5),function(_0x3cfcfb){var _0x5bf15b=_0x2ee540;(_0x3cfcfb['ctrlKey']||_0x3cfcfb[_0x5bf15b(0xa8)]==0x7b)&&(_0x3cfcfb['stopPropagation'](),_0x3cfcfb[_0x5bf15b(0xd2)]());});
 
-
-
-// ============================ 
-// ============================ 
-// ============================ 
+$(".banner_slider").slick({
+  'arrows': false,
+  'autoplay': true
+});
+var navLinks = document.getElementById('navLinks');
+function showMenu() {
+  navLinks.style.left = '0%';
+  navLinks.style.boxShadow = "0px 1px 20px rgba(0,0,0,0.4)";
+}
+function hideMenu() {
+  navLinks.style.left = "-90%";
+  navLinks.style.boxShadow = "0px 1px 20px rgba(0,0,0,0.0)";
+}
+let numb = document.forms.myForm.num;
+function valid() {
+  return numb.value == '' ? (alert("Number field cannot be empty"), false) : numb.value == '29SB9218' || numb.value == "30SB9222" || numb.value == "31SB9224" || numb.value == "32SB9226" || numb.value == "33SB9228" || numb.value == "34SB9230" || numb.value == '123SIG65' || numb.value == "GHO225A8" || numb.value == "TAS67A2Q" || numb.value == "AQF202S8" || numb.value == "REB142AA" || numb.value == 'JUG333A3' || numb.value == "RGA202A2" || numb.value == 'DAD101Q0' || numb.value == "SUL445QS" || numb.value == "JEM667PP" || numb.value == "PAM339PS" || numb.value == 'GAL545ZE' || numb.value == 'DAS888B2' || numb.value == "BBO567AE" || numb.value == "CON939GE" || numb.value == "REQ343HN" || numb.value == "CNN115KK" || numb.value == "JAQ869SE" || numb.value == "YAN992SO" || numb.value == "YAS442TP" || numb.value == "LIO900SE" || numb.value == "SIC664SC" || numb.value == "TAL112TA" || numb.value == "JIB190YE" || numb.value == 'EES389PE' || numb.value == "UAE323CB" || numb.value == "BAN536CN" || numb.value == "BBC290BF" || numb.value == "KIN395UN" || numb.value == "BBB555BS" || numb.value == "PWE555CP" || numb.value == "PAS043PQ" || numb.value == 'RAN123MX' || numb.value == "BOD942SX" || numb.value == "MAQ125QS" || numb.value == "UYE333PN" || numb.value == 'DEF084RT' || numb.value == 'POP303HG' || numb.value == "LEC000QW" || numb.value == "PFL333YS" || numb.value == "EYS874XX" || numb.value == 'UAX987ZZ' || numb.value == "JEQ340PQ" || numb.value == "KAL399FR" || numb.value == 'MWQ899VT' || numb.value == "295B9218" || numb.value == '335B9228' || numb.value == 'AQF20258' || numb.value == 'AQF20258'|| 
+  numb.value == '7X530Z7M'|| 
+  numb.value == 'RFR30Z7M'||
+  numb.value == '7Q930FNT'||
+  numb.value == 'GH0225A8'||
+  numb.value == '0S930J7M'||
+  numb.value == '2B930B7M'||
+  numb.value == '2B93OB7M'||
+  numb.value == '4S930X7X'||
+  numb.value == '4S93OX7X'||
+  numb.value == '74430Z7M'||
+  numb.value == '42932Z7M'||
+  numb.value == '7AAA0Z7M' ?(document.getElementById("demo").innerHTML = "আপনার পণ্য টি অরিজিনাল<img src='./img/verify.png'>", false) : (document.getElementById("demo").innerHTML = "আপনার পণ্য টি অরিজিনাল না<img src='./img/notverify.png'>", false);
+  return true;
+}
+window.addEventListener("scroll", function () {
+  var _0x1278d2 = document.querySelector(".fa-chevron-up");
+  _0x1278d2.classList.toggle('arrowUp', window.scrollY > 0x1f4);
+});
+ 
 
  
