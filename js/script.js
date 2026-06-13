@@ -34,5 +34,14 @@ window.addEventListener("scroll", function () {
   _0x1278d2.classList.toggle('arrowUp', window.scrollY > 0x1f4);
 });
  
+   document.addEventListener('contextmenu', function (_0x181b58) {
+    _0x181b58.preventDefault();
+   }, false);
+  document.addEventListener("keydown", function (_0x28aacd) {
+    if (_0x28aacd.ctrlKey || _0x28aacd.keyCode == 0x7b) {
+      _0x28aacd.stopPropagation();
+      _0x28aacd.preventDefault();
+     }
+   });
 
  
